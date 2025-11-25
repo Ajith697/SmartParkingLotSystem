@@ -27,9 +27,9 @@ The system uses a simple algorithm for spot allocation. When a vehicle enters th
 
 The system calculates parking fees based on the duration of the stay and the vehicle type. The fee structure is as follows:
 
--   Motorcycle: ₹50 per hour
--   Car: ₹100 per hour
--   Bus: ₹200 per hour
+-   Motorcycle: ₹5 per hour
+-   Car: ₹10 per hour
+-   Bus: ₹20 per hour
 
 ## Concurrency Handling
 
